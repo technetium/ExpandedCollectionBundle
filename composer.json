@@ -17,7 +17,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "technetium\\ExpandedCollectionBundle\\" : ""
+            "abdielcs\\ExpandedCollectionBundle\\" : ""
         }
     },
     "extra" : {
