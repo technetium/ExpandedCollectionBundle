@@ -1,5 +1,5 @@
 {
-    "name" : "abdielcs/expanded-collection-bundle",
+    "name" : "technetium/expanded-collection-bundle",
     "description" : "Symfony 2 and 3 bundle for rendering a collection of entities as an expanded selectable list",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -17,7 +17,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "abdielcs\\ExpandedCollectionBundle\\" : ""
+            "technetium\\ExpandedCollectionBundle\\" : ""
         }
     },
     "extra" : {
